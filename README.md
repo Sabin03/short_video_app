@@ -38,7 +38,7 @@ lib/
 ## 📚 Tutorials
 
 * **YouTube Video** 🎥
-<img src="https://github.com/user-attachments/assets/39554010-8942-4bdf-8729-922c512da2f4" style="width: 400px; height: 250px;">
+
 
   * https://youtu.be/NP3EpwkHIJM?si=4quj0tukiuOPFJqr
 
