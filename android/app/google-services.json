@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "895275218216",
+    "firebase_url": "https://videofeed-1bb74-default-rtdb.firebaseio.com",
+    "project_id": "videofeed-1bb74",
+    "storage_bucket": "videofeed-1bb74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895275218216:android:edd6eed0e994048bd88c1d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_video_feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895275218216-2mkjergmr7qq4qucc2iia7246iaiirii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp6_UGTIldlDF5FS20-kJA3Vkkt3Cm3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895275218216-2mkjergmr7qq4qucc2iia7246iaiirii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895275218216-4qq1f1vb6jffgru3e2ck9jhgqohclgcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doorToDoorServices"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895275218216:android:7959523fb36c15e9d88c1d",
+        "android_client_info": {
+          "package_name": "com.example.jg_group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895275218216-2mkjergmr7qq4qucc2iia7246iaiirii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp6_UGTIldlDF5FS20-kJA3Vkkt3Cm3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895275218216-2mkjergmr7qq4qucc2iia7246iaiirii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895275218216-4qq1f1vb6jffgru3e2ck9jhgqohclgcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doorToDoorServices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
