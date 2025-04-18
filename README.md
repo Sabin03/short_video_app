@@ -35,6 +35,13 @@ lib/
 ├─ main.dart
 ```
 
+Installation
+
+git clone https://github.com/Sabin03/short_video_app.git
+cd jb_group
+flutter pub get
+flutter run
+
 ## 📚 Tutorials
 
 * **YouTube Video** 🎥
