@@ -11,47 +11,36 @@ jb_group is a high-performance Flutter application that replicates the short vid
 	•	Localization-ready
 	•	Reusable design system components
 
-🏗️ Project Structure
 
+🏗 Project Structure
+
+The project follows a clean architecture approach:
+
+```
 lib/
-├── core/                
-│   ├── constants/        # App-wide static values
-│   ├── di/               # Dependency injection setup
-│   ├── init/             # App initialization
-│   ├── interfaces/       # Abstract interfaces
-├── data/
-│   └── repository/       # Data repositories
-├── domain/
-│   └── models/           # Business entities/models
-├── presentation/
-│   ├── views/            # UI pages
-│   ├── blocs/            # State management
-│   ├── design_system/    # Buttons, text styles, etc.
-│   └── l10/              # Localization
-└── main.dart             # App entry point
+├─ core/
+│  ├─ constants/
+│  ├─ di/
+│  ├─ init/
+│  ├─ interfaces/
+├─ data/
+│  ├─ repository/
+├─ domain/
+│  ├─ models/
+├─ presentation/
+│  ├─ views/
+│  ├─ blocs/
+│  ├─ design_system/
+│  ├─ l10/
+├─ main.dart
+```
 
-▶️ Getting Started
+## 📚 Tutorials
 
-Requirements
-	•	Flutter SDK (Stable)
-	•	Dart 3.x
-	•	Android Studio / VS Code
+* **YouTube Video** 🎥
+<img src="https://github.com/user-attachments/assets/39554010-8942-4bdf-8729-922c512da2f4" style="width: 400px; height: 250px;">
 
-Installation
-
-git clone https://github.com/Sabin03/short_video_app.git
-cd jb_group
-flutter pub get
-flutter run
-
-🎥 Demo
-https://youtu.be/NP3EpwkHIJM?si=4quj0tukiuOPFJqr
-Check out the YouTube tutorial that inspired this project.
-
-💡 Tutorials & Guides
-	•	MVVM architecture in Flutter
-	•	Implementing LRU caching for video controllers
-	•	Efficient video feed with video_player and PageView
+  * https://youtu.be/NP3EpwkHIJM?si=4quj0tukiuOPFJqr
 
 🤝 Contributing
 
@@ -60,5 +49,3 @@ We welcome contributions!
 	2.	Create a feature branch: git checkout -b feature/my-feature
 	3.	Commit your changes
 	4.	Push and open a Pull Request
-
- 
